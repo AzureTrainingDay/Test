@@ -1,0 +1,9 @@
+{
+	"name": "azuredatafactorydaniel2024",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b3ccb36c-1b9c-46be-89ec-413c73c63b1b",
+		"tenantId": "f0b298f9-f24e-4268-943c-5b11cc83e459"
+	}
+}
